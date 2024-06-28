@@ -1,0 +1,157 @@
+.for{
+height: 700px;
+width: 800px;
+margin-left: 270px;
+}
+.for2{
+height: 500px;
+width: 800px;
+margin-left: 270px;
+}
+.for1{
+padding-top: 100px;
+}
+.for3{
+	padding-top: 120px;
+}
+.lab{
+color: black;
+margin-left: 20px;
+}
+.lab1{
+height: 45px;
+width: 500px;
+}
+.space{
+margin: 20px;
+}
+.space1{
+color: white;
+margin-left: 20px;
+margin-top: 20px;
+}
+.btn{
+width: 200px;
+margin-left: 300px;
+}
+.btn1{
+background-color: green;
+width: 200px;
+margin-left: 40px;
+}
+.btn1:hover {
+background-color: orange;
+width: 200px;
+margin-left: 40px;
+}
+.btn:hover {
+color: black;
+width: 200px;
+margin-left: 300px;
+}
+.cont{
+background-color: rgb(136, 22, 5);
+}
+.cont1{
+color: white;
+padding-left: 100px;
+}
+.cont1:hover {
+color: black;
+}
+.cont2{
+padding-top: 60Px;
+margin: 5px;
+}
+.img{
+position: left-side;
+width: 200px;
+height: 150px;
+
+}
+.heading{
+color: green;
+padding-top: 50px;
+font-size: 40pt;
+}
+	.img1{
+	position: left-side;
+	width: 150px;
+	height: 120px;
+	}
+	.slider{
+	width: 100%;
+	}
+	.text{
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 100px;
+	}
+	.heading1{
+	background-color: green;
+	color: white;
+	}
+.pro_btn {
+    text-align: center;
+    padding: 10px;
+}
+
+.footer_logo {
+    width: 50%;
+	margin-left: 20px;
+}
+
+.footer .address p {
+    line-height: 2em;
+    margin-left: 20px;
+    width: 80%;
+}
+.row{
+display: flex;
+flex-wrap: wrap;
+margin-left: -15px;
+margin-right: -15px;
+}
+.footer_bar{
+background-color: rgb(155, 11, 11);
+}
+.para{
+padding-top: 50px;
+}
+.lab3{
+	margin-left: 150px;
+	color: black;
+}
+.image{
+	margin: 70px;
+	height: 600px;
+}
+.mybutton{
+	width: 150px;
+	margin-left: 20px;
+	background-color: green;
+	color: white;
+}
+.col{
+	color: black;
+}
+.com{
+	color: white;
+}
+.com:hover {
+	color: black;
+}
+.cd{
+	padding-top: 50px;
+}
+.icon{
+	height: 30px;
+	width: 30px;
+}
+.set{
+	margin-left: 380px;
+	padding-top: 5px;
+}
